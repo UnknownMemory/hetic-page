@@ -1,4 +1,4 @@
 baseURL = 'https://unknownmemory.github.io/hetic-page/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hugo'
 theme = 'ananke'
