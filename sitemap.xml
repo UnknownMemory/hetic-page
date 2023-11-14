@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://unknownmemory.github.io/hetic-page/categories/</loc>
+    <loc>https://unknownmemory.github.io/hetic-page/post/home/</loc>
+    <lastmod>2023-11-14T11:44:14+01:00</lastmod>
   </url><url>
     <loc>https://unknownmemory.github.io/hetic-page/</loc>
+    <lastmod>2023-11-14T11:44:14+01:00</lastmod>
+  </url><url>
+    <loc>https://unknownmemory.github.io/hetic-page/post/</loc>
+    <lastmod>2023-11-14T11:44:14+01:00</lastmod>
+  </url><url>
+    <loc>https://unknownmemory.github.io/hetic-page/post/news/</loc>
+    <lastmod>2023-11-14T11:37:43+01:00</lastmod>
+  </url><url>
+    <loc>https://unknownmemory.github.io/hetic-page/categories/</loc>
   </url><url>
     <loc>https://unknownmemory.github.io/hetic-page/tags/</loc>
   </url>
